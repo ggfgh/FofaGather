@@ -4,7 +4,6 @@ import time
 import random
 import threading
 
-total = 0
 #爬取获得页面--生产者
 def do_craw(url_queue:queue.Queue,html_queue:queue.Queue):
     while True:
