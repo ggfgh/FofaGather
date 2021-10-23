@@ -16,6 +16,6 @@ pip install -r requestment.txt
 
 3.运行python FofaGather.py
 
-<h3>提示</h3>
+<h2>提示</h2>
 cookie请使用burp抓包获取（两天内会失效）
 
