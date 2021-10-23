@@ -12,5 +12,4 @@ queue
 lxml
 
 安装
-pip install queue
-pip install lxml
+pip install -r requestment.txt
